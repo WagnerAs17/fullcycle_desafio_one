@@ -5,9 +5,9 @@
 | wagneralmeida17 | docker pull wagneralmeida17/codeeducation:latest |
 
 
-|   Salario   |  Emprestimo Pessoal  |    Emprestimo c/ garantia    |
-| :---         |     :---:      |          ---: |
-| Salario <= 3000   | Sim     | Sim    |
+|   Salario   |  Emprestimo Pessoal  |    Emprestimo c/ garantia    | Consignado |
+| :---         |     :---:      |          ---: |  :---:      |
+| Salario <= 3000   | Sim     | Sim    | Não |
 
 
 
