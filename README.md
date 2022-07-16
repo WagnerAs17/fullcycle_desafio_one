@@ -7,7 +7,7 @@
 
 |   Salario   |  Emprestimo Pessoal  |    Emprestimo c/ garantia    | Consignado |
 | :---         |     :---:      |          ---: |  :---:      |
-| Salario <= 3000   | Sim     | Sim    | Não |
+| Salario <= 3000   | Sim     | Sim***    | Não |
 
 
 
