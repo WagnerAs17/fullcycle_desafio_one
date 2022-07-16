@@ -4,12 +4,14 @@
 | ------- | --------------------- |
 | wagneralmeida17 | docker pull wagneralmeida17/codeeducation:latest |
 
-| Salário | Empréstimo pessoal | Empréstimo com garantia | Consignado |
 
-| -------- | ------------------ | ---------------------- | ---------- |
+| Usuário | Repositório Dockerhub |
+| ------- | --------------------- |
+| wagneralmeida17 | docker pull wagneralmeida17/codeeducation:latest |
 
-| Salário <= 3000 | Sim | Sim*** | Não |
 
-| Salário >= 3000 | Sim | Sim** | Não |
+| Salario | Emprestimo Pessoal | Emprestimo c/ garantia | Consignado |
 
-| Salário >= 5000 | Sim | Sim* | Sim |
+|-------- | ------------------ | ---------------------- | ---------- |
+
+| Salario <= 3000 | Sim | Sim*** | Não |
