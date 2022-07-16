@@ -5,9 +5,10 @@
 | wagneralmeida17 | docker pull wagneralmeida17/codeeducation:latest |
 
 
-| Usuário | Repositório Dockerhub |
-| ------- | --------------------- |
-| wagneralmeida17 | docker pull wagneralmeida17/codeeducation:latest |
+|   Salario   |  Emprestimo Pessoal  |    Emprestimo c/ garantia    |
+| :---         |     :---:      |          ---: |
+| Salario <= 3000   | Sim     | Sim    |
+
 
 
 | Salario | Emprestimo Pessoal | Emprestimo c/ garantia | Consignado |
